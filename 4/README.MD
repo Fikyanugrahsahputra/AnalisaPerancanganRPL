@@ -1,3 +1,3 @@
-NIM:1811500015
-NAMA:Fiky Anugrah Sahputra
-kelompok : TI6A
+NIM:1811500015<br>
+NAMA:Fiky Anugrah Sahputra<br>
+kelompok : TI6A<br>
